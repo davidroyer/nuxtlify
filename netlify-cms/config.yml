@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: davidroyer/nuxtlify # Change to your repo
-  url: http://localhost:3000
+  # url: http://localhost:3000
 
 media_folder: "static/uploads"
 
