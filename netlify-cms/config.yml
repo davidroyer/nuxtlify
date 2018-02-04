@@ -1,7 +1,7 @@
 backend:
   name: github
-  repo: ajhaupt7/vue_cmsify # Change to your repo
-  url: http://vuecmsify.me
+  repo: davidroyer/nuxtlify # Change to your repo
+  url: http://localhost:3000
 
 media_folder: "static/uploads"
 
